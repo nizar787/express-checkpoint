@@ -1,0 +1,17 @@
+{
+  "name": "workshop_express_f1",
+  "version": "1.0.0",
+  "description": "workshop express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
